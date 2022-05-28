@@ -1,6 +1,6 @@
 # NFT MarketPlace Dapp
 
-An exemple of complete web3 NFT Marketplace
+An exemple of NFT Marketplace smart contract
 
 ## Overview
 
