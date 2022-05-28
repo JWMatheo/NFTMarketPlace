@@ -18,3 +18,4 @@ More information on [openzeppelin contracts page](https://github.com/OpenZeppeli
 - Buy and sell NFTs
 - Create your NFTs collections directly from the 'Creation' section
 - Add a nft to an already created collection
+- Import your NFTs collections from other smart contract
