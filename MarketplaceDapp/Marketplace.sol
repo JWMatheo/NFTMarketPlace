@@ -5,7 +5,7 @@ import "./NFTFactory.sol";
 import "./NFTERC721.sol";
 
 /// @title A NFT marketplace example
-/// @author JWMatheo - member of NFTSet Team
+/// @author JWMatheo
 /// @notice You can use this contract in order to build a marketplace Dapp
 /// @dev NFT marketplace contract. You need to deploy FactoryV3.sol first and implement the Factory address.
 contract Market {
