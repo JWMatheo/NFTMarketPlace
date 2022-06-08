@@ -4,7 +4,7 @@ An exemple of NFT Marketplace smart contract
 
 ## Overview
 
-### Installation
+### Installation required
 
 ```console
 $ npm install @openzeppelin/contracts
