@@ -3,7 +3,7 @@ pragma solidity 0.8.13;
 
 import "./NFTERC721.sol";
 /// @title A NFT Factory example
-/// @author JWMatheo - member of NFTSet Team
+/// @author JWMatheo
 /// @notice You can use this contract in order to create other contract !
 /// @dev Create new contract 'MonNFT' instance
 contract NFTFactory {
