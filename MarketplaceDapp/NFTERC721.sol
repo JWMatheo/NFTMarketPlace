@@ -9,7 +9,7 @@ import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
 import "@openzeppelin/contracts/utils/Strings.sol";
 
 /// @title A NFT contract example
-/// @author JWMatheo - member of NFTSet Team
+/// @author JWMatheo
 /// @notice You can use this contract in order to create your NFT collection !
 /// @dev ERC721 basic contract
 contract MonNft is ERC721Enumerable {
